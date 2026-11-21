@@ -1,28 +1,71 @@
-🛒 Amazon Clone Homepage
 
-A simple Amazon homepage clone built using HTML and CSS.
-This project recreates the layout of the Amazon landing page including the navbar, hero section, product grid, and footer.
+# 🛒 Amazon Homepage Clone
 
-It is a beginner-friendly frontend project to practice HTML structure, CSS styling, flexbox, and responsive layout concepts.
+A static Amazon homepage clone built using HTML5 and CSS3. This project recreates the visual layout of Amazon's homepage to practice frontend development fundamentals.
 
-🚀 Features
+## 🌐 Live Demo
 
-Amazon-like Navigation Bar
+[View Live Website](https://amazon-home-page-clone-sigma.vercel.app/)
 
-Search Bar UI
+## ✨ Features
 
-Hero Banner Section
+- Amazon-inspired navigation bar
+- Delivery location section
+- Search bar interface
+- Account and shopping cart sections
+- Hero banner section
+- Eight shopping category cards
+- Multi-section footer
+- Hover effects and custom CSS styling
 
-Product Grid Layout
+## 🛠️ Technologies Used
 
-Responsive Footer
+- HTML5
+- CSS3
+- Flexbox
+- Font Awesome
 
-Clean and simple CSS styling
+## 📁 Project Structure
 
-🛠️ Built With
+```text
+amazon-home-page-clone/
+│
+├── images/
+├── index.html
+├── style.css
+└── README.md
+```
 
-HTML5
+## 🚀 Getting Started
 
-CSS3
+1. Clone the repository:
 
-No frameworks or libraries were used..
+```bash
+git clone https://github.com/Anitosh-Das-Akash/amazon-home-page-clone.git
+```
+
+2. Open the project folder.
+
+3. Open `index.html` in your browser.
+
+## 📌 Project Purpose
+
+This project was created to practice:
+
+- Semantic HTML structure
+- CSS layouts and Flexbox
+- Navigation bar design
+- Background images
+- Hover effects
+- Building a homepage inspired by a real-world website
+
+## ⚠️ Note
+
+This is a frontend practice project. It is a static homepage clone and does not include functional search, authentication, shopping cart, or checkout features.
+
+## 👨‍💻 Author
+
+**Anitosh Das**
+
+- GitHub: [Anitosh-Das-Akash](https://github.com/Anitosh-Das-Akash)
+- LinkedIn: [Connect with me](https://www.linkedin.com/in/anitosh-das-aab11b357/)
